@@ -8,7 +8,7 @@ This model is a fine-tuned version of the NLLB-200-600M model, specifically adap
 The dataset used for fine-tuning was collected from high-quality transcriptions of videos, ensuring the language data is rich and contextually accurate.
 ### Model Details
 
-- **Base Model**: [facebook/nllb-200-distilled-600M](https://huggingface.co/facebook/nllb-200-distilled-600M)
+- **Base Model**: [Mhassanen/nllb-200-600M-En-Ar](https://huggingface.co/Mhassanen/nllb-200-600M-En-Ar)
 - **Language Pair**: English to Egyptian Arabic
 - **Dataset**: 12,000 custom translation pairs
 
