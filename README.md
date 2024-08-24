@@ -45,7 +45,7 @@ The model has been evaluated on a validation set to ensure translation quality. 
 
 ### Acknowledgements
 
-This model builds upon the [NLLB-200-600M](https://huggingface.co/facebook/nllb-200-600M) developed by Facebook AI, fine-tuned to cater specifically to the Egyptian Arabic dialect.
+This model builds upon the NLLB-200-600M developed by Facebook AI, fine-tuned to cater specifically to the Egyptian Arabic dialect.
 
 Feel free to contribute or provide feedback to help improve this model!
 
