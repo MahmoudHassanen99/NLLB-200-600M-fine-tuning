@@ -13,6 +13,10 @@ The dataset used for fine-tuning was collected from high-quality transcriptions 
 - **Dataset**: 12,000 custom translation pairs
 
 
+### Streamlit App
+can try the model with streamlit app based on huggingface space from here: [Streamlit App](https://mhassanen-nllb-en-ar-translation.hf.space/)
+
+
 ### Usage
 
 To use this model for translation, you can load it with the `transformers` library:
@@ -33,6 +37,7 @@ def translate(text):
 text = "Hello, how are you?"
 print(translate(text))
 ```
+
 
 ### Performance
 
