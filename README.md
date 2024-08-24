@@ -14,7 +14,7 @@ The dataset used for fine-tuning was collected from high-quality transcriptions 
 
 
 ### Streamlit App
-can try the model with streamlit app based on huggingface space from here: [Streamlit App](https://mhassanen-nllb-en-ar-translation.hf.space/)
+To try the model with streamlit app based on huggingface space from here: [Streamlit App](https://mhassanen-nllb-en-ar-translation.hf.space/)
 
 
 ### Usage
