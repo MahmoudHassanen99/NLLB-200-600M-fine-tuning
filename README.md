@@ -54,3 +54,5 @@ This model builds upon the NLLB-200-600M developed by Facebook AI, fine-tuned to
 
 Feel free to contribute or provide feedback to help improve this model!
 
+
+[![DOI](https://zenodo.org/badge/810835774.svg)](https://doi.org/10.5281/zenodo.15794219)
