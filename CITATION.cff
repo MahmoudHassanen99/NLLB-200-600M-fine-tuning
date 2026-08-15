@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as follows."
+
+title: "NLLB-200-600M-fine-tuning"
+type: software
+
+authors:
+  - family-names: "Hassanen"
+    given-names: "Mahmoud"
+
+version: "1.0.1"
+date-released: 2025-07-23
+
+doi: "10.5281/zenodo.16377737"
+url: "https://github.com/MahmoudHassanen99/NLLB-200-600M-fine-tuning"
+
+license: "CC-BY-4.0"
+
+repository-code: "https://github.com/MahmoudHassanen99/NLLB-200-600M-fine-tuning"
