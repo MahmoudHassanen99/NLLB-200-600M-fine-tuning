@@ -56,3 +56,10 @@ This model builds upon the NLLB-200-600M developed by Facebook AI, fine-tuned to
 Feel free to contribute or provide feedback to help improve this model!
 
 
+### Publications Citing This Software
+
+- M. M. Nina and D. A. Vega-Oliveros, "Maximizing Model Adaptation for Low-Resource Languages: A Progressive Unfreezing Strategy for Spanish-Aymara Translation," in *2025 12th International Conference on Soft Computing & Machine Intelligence (ISCMI)*, Nov. 2025.
+  DOI: https://doi.org/10.1109/ISCMI67495.2025.11358562
+
+  This publication cites this project's initial release as Reference [18]:
+  https://doi.org/10.5281/zenodo.15794220
